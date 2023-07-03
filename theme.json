@@ -1,0 +1,98 @@
+{
+    "version": 2,
+    "settings": {
+      "typography": {
+        "fontSizes": [
+          {
+            "name": "Small",
+            "slug": "small",
+            "size": 14
+          },
+          {
+            "name": "Regular",
+            "slug": "regular",
+            "size": 16
+          }
+        ],
+        "lineHeight": {
+          "normal": 1.5,
+          "wide": 2
+        }
+      },
+      "color": {
+        "palette": [
+          {
+            "name": "Primary",
+            "slug": "primary",
+            "color": "#0073aa"
+          },
+          {
+            "name": "Secondary",
+            "slug": "secondary",
+            "color": "#dd3333"
+          }
+        ],
+        "gradients": [
+          {
+            "name": "Gradient 1",
+            "slug": "gradient1",
+            "gradient": "linear-gradient(to right, #ff0000, #0000ff)"
+          },
+          {
+            "name": "Gradient 2",
+            "slug": "gradient2",
+            "gradient": "linear-gradient(to right, #00ff00, #ffff00)"
+          }
+        ]
+      },
+      "layout": {
+        "contentSize": "800px",
+        "wideSize": "1200px"
+      },
+      "spacing": {
+        "units": [
+          {
+            "name": "Small",
+            "slug": "small",
+            "size": 8
+          },
+          {
+            "name": "Medium",
+            "slug": "medium",
+            "size": 16
+          }
+        ]
+      },
+      "blocks": {
+        "core/paragraph": {
+          "fontSize": "regular",
+          "lineHeight": "normal",
+          "backgroundColor": "primary",
+          "textColor": "secondary",
+          "padding": {
+            "top": "small",
+            "bottom": "small",
+            "left": "medium",
+            "right": "medium"
+          }
+        },
+        "core/heading": {
+          "fontSize": "regular",
+          "lineHeight": "normal",
+          "textColor": "primary"
+        },
+        "core/button": {
+          "backgroundColor": "secondary",
+          "textColor": "primary",
+          "padding": {
+            "top": "small",
+            "bottom": "small",
+            "left": "medium",
+            "right": "medium"
+          },
+          "borderRadius": "small"
+        }
+      }
+    }
+  }
+  
