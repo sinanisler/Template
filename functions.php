@@ -1,8 +1,6 @@
 <?php
 
 
-
-
 function setup_the_template(){
     add_theme_support( 'title-tag' );
     add_theme_support( 'post-thumbnails' );
