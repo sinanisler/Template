@@ -6,7 +6,7 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Short description. Just a useful modern theme with useful settings and with plugin eliminating tools.
+Just a useful modern theme with useful settings and with plugin eliminating tools.
 
 
 == Description ==
