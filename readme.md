@@ -5,10 +5,11 @@ read me or not to read me
 ## Core
 
 - list of font-end resources scripts and styles for clear check for the site.
-- register custom post types (full support)
-- register taxonomy (full support)
+- register custom post types (full support, private option ? maybe )
+- register taxonomy (full support , private option ? maybe )
 - register custom image thumbnail size
 - register advance custom fields, meta fields
+- smtp setting for mail func blocked servers
 
 
 ## UX
@@ -22,4 +23,12 @@ read me or not to read me
 ## Widgets
 
 - advanced custom query widget 
-- advanced custom query latets posts slider widget
+- 
+
+
+## Block Editor & Elementor & Bricks Support
+
+- Full Blocks Support
+- Full Elementor Support
+- Full Bricks Support
+- Elementor Editor Template UX Fix
