@@ -32,3 +32,5 @@ read me or not to read me
 - Full Elementor Support
 - Full Bricks Support
 - Elementor Editor Template UX Fix
+- Elementor Editor old colors back? (Maybe)
+
