@@ -4,13 +4,21 @@ read me or not to read me
 
 ## Core
 
-- list of font-end resources scripts and styles for clear check for the site.
 - register custom post types (full support, private option ? maybe )
 - register taxonomy (full support , private option ? maybe )
 - register custom image thumbnail size
 - register advance custom fields, meta fields
 - smtp setting for mail func blocked servers
+- disable updates
+- list of font-end resources scripts and styles for clear check for the site.
+- 301 redirection tool
+- extra patterns - blocks (missing pieces like slider, carousel blocks)
 
+
+## Security
+- security check list
+- recommend security changes
+- convert the site to a login/user only site
 
 ## UX
 
@@ -22,7 +30,7 @@ read me or not to read me
 
 ## Widgets
 
-- advanced custom query widget 
+- advanced custom query widget (maybe ?)
 - 
 
 
