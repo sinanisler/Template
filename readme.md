@@ -16,6 +16,7 @@ read me or not to read me
 
 
 ## Security
+
 - security check list
 - recommend security changes
 - convert the site to a login/user only site
@@ -27,6 +28,7 @@ read me or not to read me
 - default editor full screen mode
 - gutenberg list view nesting left padding problem, too many nesting items makes rest flow outside the list view.
 - disable editor default full screen mode
+
 
 
 ## Widgets
