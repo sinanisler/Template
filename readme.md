@@ -18,6 +18,7 @@ read me or not to read me
 ## Security
 
 - security check list
+- show red yellow or green security issues and recommendations
 - recommend security changes
 - convert the site to a login/user only site
 
