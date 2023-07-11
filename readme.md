@@ -44,4 +44,5 @@ read me or not to read me
 - Full Bricks Support
 - Elementor Editor Template UX Fix
 - Elementor Editor old colors back? (Maybe)
-
+- Custom Patterns
+- Custom Blocks
