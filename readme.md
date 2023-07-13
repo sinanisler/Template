@@ -13,7 +13,7 @@ read me or not to read me
 - list of font-end resources scripts and styles for clear check for the site.
 - 301 redirection tool
 - extra patterns - blocks (missing pieces like slider, carousel blocks)
-
+ 
 
 ## Security
 
