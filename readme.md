@@ -39,11 +39,12 @@ Feature list TBD...
 
 - Advanced custom query widget (maybe?)
 
-## Block Editor & Elementor & Bricks Support
+## Block Editor & Elementor & Bricks + WooCommerce Support
 
 - Full Blocks Support
 - Full Elementor Support
 - Full Bricks Support
+- Full Native WooCommerce and WooCommerce Blocks Support
 - Elementor Editor Template UX Fix
 - Elementor Editor old colors back? (Maybe)
 - Custom Patterns
