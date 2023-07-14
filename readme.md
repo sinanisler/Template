@@ -8,40 +8,37 @@ if it is possible why not make it?
 
 Feature list TBD...
 
+
+Here's the reorganized list according to the categories you provided:
+
 ## Core
 
-- register custom post types (full support, private option ? maybe )
-- register taxonomy (full support , private option ? maybe )
-- register custom image thumbnail size
-- register advance custom fields, meta fields
-- smtp setting for mail func blocked servers
-- disable updates
+- Register custom post types (full support, private option? maybe)
+- Register taxonomy (full support, private option? maybe)
+- Register custom image thumbnail size
+- Register advance custom fields, meta fields
+- SMTP setting for mail func blocked servers
+- Disable updates
 - 301 redirection tool
-- extra patterns - blocks (missing pieces like slider, carousel blocks)
- 
+- Extra patterns - blocks (missing pieces like slider, carousel blocks)
 
 ## Security
 
-- security check list
-- show red yellow or green security issues and recommendations
-- recommend security changes
-- convert the site to a login/user only site
-
+- Security check list
+- Show red, yellow, or green security issues and recommendations
+- Recommend security changes
+- Convert the site to a login/user-only site
 
 ## UX
 
-- hide icons dashboard left menu, text only
-- default editor full screen mode
-- gutenberg list view nesting left padding problem, too many nesting items makes rest flow outside the list view.
-- disable editor default full screen mode
-
-
+- Hide icons dashboard left menu, text only
+- Default editor full-screen mode
+- Gutenberg list view nesting left padding problem, too many nesting items make rest flow outside the list view.
+- Disable editor default full-screen mode
 
 ## Widgets
 
-- advanced custom query widget (maybe ?)
-- 
-
+- Advanced custom query widget (maybe?)
 
 ## Block Editor & Elementor & Bricks Support
 
@@ -53,6 +50,9 @@ Feature list TBD...
 - Custom Patterns
 - Custom Blocks
 
-## Optimization 
-- Script detection and optimization 
-- list of font-end resources scripts and styles for clear check for the site.
+## Optimization
+
+- Script detection and optimization
+- List of front-end resources scripts and styles for clear check for the site.
+
+Please note that I've removed the empty bullet point under the "Widgets" category as it wasn't specified. Feel free to add any missing information or adjust the organization as needed.
