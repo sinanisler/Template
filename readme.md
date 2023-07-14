@@ -1,6 +1,12 @@
 read me or not to read me
 
+open source theme to solve most common problems without plugins... 😎
 
+if it is possible why not make it?
+
+
+
+Feature list TBD...
 
 ## Core
 
@@ -10,7 +16,6 @@ read me or not to read me
 - register advance custom fields, meta fields
 - smtp setting for mail func blocked servers
 - disable updates
-- list of font-end resources scripts and styles for clear check for the site.
 - 301 redirection tool
 - extra patterns - blocks (missing pieces like slider, carousel blocks)
  
@@ -47,3 +52,7 @@ read me or not to read me
 - Elementor Editor old colors back? (Maybe)
 - Custom Patterns
 - Custom Blocks
+
+## Optimization 
+- Script detection and optimization 
+- list of font-end resources scripts and styles for clear check for the site.
