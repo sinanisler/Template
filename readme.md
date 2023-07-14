@@ -55,4 +55,3 @@ Here's the reorganized list according to the categories you provided:
 - Script detection and optimization
 - List of front-end resources scripts and styles for clear check for the site.
 
-Please note that I've removed the empty bullet point under the "Widgets" category as it wasn't specified. Feel free to add any missing information or adjust the organization as needed.
