@@ -9,7 +9,6 @@ if it is possible why not make it?
 Feature list TBD...
 
 
-Here's the reorganized list according to the categories you provided:
 
 ## Core
 
