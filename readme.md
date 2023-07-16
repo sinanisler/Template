@@ -2,13 +2,22 @@ read me or not to read me
 
 open source theme to solve most common problems without plugins... 😎
 
+
+
+
+## WHY
+I already use most of this features when I make client projects but I code everything in the projects usualy.
+
+With this theme My aim is to create a setting page to show all the features and options for normal users to get super powers.
+
 if it is possible why not make it?
 
 
 
+
+
+
 Feature list TBD...
-
-
 
 ## Core
 
