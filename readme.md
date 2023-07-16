@@ -68,6 +68,7 @@ Feature list TBD...
 
 
 # Notes for me
+Since this is going to be a public theme on the wp.org directory I will follow WP and PHP standards.
 
 https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/
 
