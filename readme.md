@@ -1,8 +1,6 @@
 read me or not to read me
 
-open source theme to solve most common problems without plugins... 😎
-
-
+A Theme Designed to Give WordPress Users Super Powers 😎
 
 
 ## WHY
