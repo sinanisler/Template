@@ -63,3 +63,12 @@ Feature list TBD...
 - List of front-end resources scripts and styles for clear check for the site.
 
     
+
+
+
+
+# Notes for me
+
+https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/
+
+https://wordpress.org/about/security/
