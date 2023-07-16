@@ -12,10 +12,18 @@ if it is possible why not make it?
 
 
 
+Theme Settings and Features list TBD...
 
 
 
-Feature list TBD...
+## UX
+
+- Welcome/Activation theme, showing tutorial video and text, dashboard screen element, native wp (none invasive ux)
+- Hide icons dashboard left menu, text only
+- Default editor full-screen mode
+- Gutenberg list view nesting left padding problem, too many nesting items make rest flow outside the list view.
+- Disable editor default full-screen mode
+
 
 ## Core
 
@@ -35,12 +43,6 @@ Feature list TBD...
 - Recommend security changes
 - Convert the site to a login/user-only site
 
-## UX
-
-- Hide icons dashboard left menu, text only
-- Default editor full-screen mode
-- Gutenberg list view nesting left padding problem, too many nesting items make rest flow outside the list view.
-- Disable editor default full-screen mode
 
 ## Widgets
 
