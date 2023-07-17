@@ -35,6 +35,7 @@ Theme Settings and Features list TBD...
 - Disable updates
 - 301 redirection tool
 - Extra patterns - blocks (missing pieces like slider, carousel blocks)
+- Remove category url from permalink  default: category/blabla setting: /blabla
 
 ## Security
 
