@@ -10,7 +10,7 @@ With this theme My aim is to create a setting page to show all the features and 
 
 if it is possible why not make it?
 
-
+ 
 
 Theme Settings and Features list TBD...
 
