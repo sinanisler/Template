@@ -48,7 +48,9 @@ Theme Settings and Features list TBD...
 
 ## Widgets
 
-- Advanced custom query widget (maybe?)
+- Advanced custom query widget (if we need it maybe?)
+- Social widget (need it?)
+
 
 ## Block Editor & Elementor & Bricks + WooCommerce Support
 
