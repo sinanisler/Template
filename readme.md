@@ -23,6 +23,7 @@ Theme Settings and Features list TBD...
 - Default editor full-screen mode
 - Gutenberg list view nesting left padding problem, too many nesting items make rest flow outside the list view.
 - Disable editor default full-screen mode
+- Go back to classic editor option ? (I would like not to add this but there are some people using it. So keep it as option)
 
 
 ## Core
