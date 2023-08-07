@@ -1,19 +1,26 @@
 <?php get_header( ); ?>
 
 
+<div class="posts-container">
+<div class="posts-container-the-posts">
+<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
+    <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
+    <?php the_content( ); ?>
 
-<?php if ( have_posts() ) { 	while ( have_posts() ) { the_post();  ?>	
+    </div>
 
-<div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+    <?php endwhile; else : ?>
+	<p><?php esc_html_e( 'Sorry, no posts matched your criteria.' ); ?></p>
 
-<?php the_content( ); ?>
-
+<?php endif; ?>
 </div>
 
-<?php } } ?>
-
+<div class="posts-container-pagination">
+<?php wp_link_pages(); ?>
+</div>
+</div>
 
 
 

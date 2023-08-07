@@ -4,7 +4,8 @@ A Theme Designed to Give WordPress Users Super Powers 😎
 
 
 ## WHY
-I already use most of this features when I make client projects but I code everything in the projects usualy.
+I already use most of this features when I make client projects but I code everything in the projects usualy. 
+Because every project has different needs and plugins don't usually cover all the needs.
 
 With this theme My aim is to create a setting page to show all the features and options for normal users to get super powers.
 
@@ -13,7 +14,6 @@ if it is possible why not make it?
  
 
 Theme Settings and Features list TBD...
-
  
 
 ## UX
@@ -24,6 +24,11 @@ Theme Settings and Features list TBD...
 - Gutenberg list view nesting left padding problem, too many nesting items make rest flow outside the list view.
 - Disable editor default full-screen mode
 - Go back to classic editor option ? (I would like not to add this but there are some people using it. So keep it as option)
+- File Size Column to the Media Library
+- Word Count Column to the Posts Listing
+- Thumbnail Column to posts listing
+
+
 
 
 ## Core
@@ -37,6 +42,7 @@ Theme Settings and Features list TBD...
 - 301 redirection tool
 - Extra patterns - blocks (missing pieces like slider, carousel blocks)
 - Remove category url from permalink  default: category/blabla setting: /blabla
+
 
 ## Security
 
